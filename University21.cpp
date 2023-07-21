@@ -1,4 +1,4 @@
-// University 1-> Using friend function find the maximum number from given two numbers
+// University 2->(1) Using friend function find the maximum number from given two numbers
 //from two different classes. Write all necessary functions and constructor for the program.
 
 #include <iostream>

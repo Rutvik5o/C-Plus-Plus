@@ -30,11 +30,19 @@
 
 3.25 -> Nested Classes
 
-4.1 -> Dynamic Memory allocation using "new" (1)
+4.1 -> Dynamic Memory allocation using "new" (1):Single Interger
 
-4.2-> Dynamic Memory allocation using "new" (2):Fixed Size value
+4.2-> Dynamic Memory allocation using "new" (2):Fixed Size value ->Array
 
-4.3-> Dynamic Memory allocation using "new" (3): Size value take from user
+4.3-> Dynamic Memory allocation using "new" (3): Size value take from user ->Array
+
+4.4 -> Dynamic Memory allocation using "new" (4): Class
+
+4.5 -> Dynamic Memory De-allocation using "delete" (1):Single Interger
+
+4.6-> Dynamic Memory De-allocation using "delete" (3): Size value take from user ->Array
+
+4.7 -> Dynamic Memory De-allocation using "delete" (4): Class
 
 5.11 -> Copy Constructer : Complier Implicity
 

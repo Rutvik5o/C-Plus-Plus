@@ -51,3 +51,13 @@
 5.25 -> Destructer
 
 
+Ch -3 Inheritence & Polymorphism
+
+
+in(Ex) -> Example of Inheritence
+
+in--1 -> Example of Single Inheritence
+
+in--2 -> Example of Multilevel Inheritence
+
+

@@ -60,4 +60,18 @@ in--1 -> Example of Single Inheritence
 
 in--2 -> Example of Multilevel Inheritence
 
+in--3 -> Example of Multiple Inheritence
+
+in--4 -> Example of Hierarchical Inheritence
+
+int--5 -> Hybird(Virtual) Inheritence
+
+MOI => Modes of Inheritence
+
+MOI(1) -> Public
+
+MOI(2) -> Protected
+
+MOI(3) -> Private
+
 

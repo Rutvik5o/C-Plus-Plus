@@ -1,7 +1,7 @@
 /* University 2 ->(4) Create Calender class with day, month and year 
 as data members.Include default and parameterized constructors to
 initialize a Calender object with a valid data value. Define a 
-function AddDays() to add days to the Caleder object. Define a 
+function AddDays() to add days to the Calender object. Define a 
 display functio to show data in "dd/mm/yyyy" format. */
 
 #include<iostream>

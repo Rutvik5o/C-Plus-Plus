@@ -1,4 +1,4 @@
-/*University 2->2 Using a friend function, find the average of three numb
+/*University 2->2 Using a friend function, find the average of three number
 from three diffferent classes. Write all necessary member functions and 
 contructor for the classes.*/
 

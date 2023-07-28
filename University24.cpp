@@ -2,7 +2,7 @@
 as data members.Include default and parameterized constructors to
 initialize a Calender object with a valid data value. Define a 
 function AddDays() to add days to the Calender object. Define a 
-display functio to show data in "dd/mm/yyyy" format. */
+display function to show data in "dd/mm/yyyy" format. */
 
 #include<iostream>
 using namespace std;

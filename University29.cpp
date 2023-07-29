@@ -1,3 +1,4 @@
+//Program gives error
 /* University 2->(9) Create a class account that scores customer 
 name,account no, types of account. From this derive classes cur_acc
 and sav_acc to include necessary member function to do the following:

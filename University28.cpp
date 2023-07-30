@@ -1,7 +1,7 @@
 /* University 2->(8) Write a program with use of inheritence:Define
 a class publisher that stores the name of the title.Derive two clasess
 book and tape,which inherit publisher. Book class contains member data
-called page noand tape class contain time for playing. Define functions
+called page number and tape class contain time for playing. Define functions
 in the appropriate classes to get and print the details.*/
 
 #include<iostream>

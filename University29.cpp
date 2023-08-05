@@ -1,4 +1,3 @@
-//Program gives error
 /* University 2->(9) Create a class account that scores customer 
 name,account no, types of account. From this derive classes cur_acc
 and sav_acc to include necessary member function to do the following:
@@ -69,7 +68,7 @@ class Savings:public Bank
 			cout<<"Current Balance=> Rs."<<balance;
 		}
 		
-		void interest()
+		void inter()
 		{
 			interest=(balance*rate)/100;
 			cout<<"\nInterest Per Year=> Rs."<<interest;
@@ -83,13 +82,13 @@ class Savings:public Bank
 			cout<<"\n->Customer Name=>"<<cname;
 			cout<<"\n->Current Balance=> Rs."<<balance;
 			cout<<"\n->Interest Rate=>"<<rate;
-			interest();
+			inter();
 		}
 };
 
 class Current:public Bank
 {
-	float balance,rate,transfer,interest;
+	float balance,rate,transfer,inte;
 	
 	public:
 		Current()
@@ -127,11 +126,11 @@ class Current:public Bank
 			return 0;
 		}
 		
-		void interest
+		void interest()
 		{
-			interest=(balance*rate)/100;
-			cout<<"\nInterest Per Year=> Rs."<<interest;
-			cout<<"\nBalance With Interest=> Rs."<<(balance+interest);
+			inte=(balance*rate)/100;
+			cout<<"\nInterest Per Year=> Rs."<<inte;
+			cout<<"\nBalance With Interest=> Rs."<<(balance+inte);
 		}
 		
 		void print()
@@ -172,7 +171,7 @@ int main()
 					case 2: s1.withdraw();
 					        break;
 					        
-					case 3: s1.interest();
+					case 3: s1.inter();
 					        break;
 					        
 					case 4: s1.print();
@@ -211,6 +210,8 @@ int main()
 					default: return 0;
 			}
 		}
+
+		}		
 		
 		else
 			return 0;

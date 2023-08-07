@@ -1,5 +1,5 @@
 /* University 3-> (2) Create a base class shape. Use this class to store
-two double type values that could be used to conpute the area of figures.
+two double type values that could be used to compute the area of figures.
 Derive two specific classes called triangle and rectangle from the base 
 shape. Add to the base class, a member function get_data() to intitailize 
 the base class data members and another member function display_area() to
